@@ -13,6 +13,7 @@
 #     - dry-struct with schemas
 #     - active_data
 #     - active_type
+#     - active_model
 # - Business Logic:
 #   - Railway Oriented Way
 #     - dry-transactions
